@@ -26,5 +26,5 @@ An n8n workflow that monitors incoming emails, identifies high-priority messages
 5. Update the label ID in the workflow if needed.
 6. Test the workflow before activating it.
 
-## Security
+## Security 
 No API keys, credentials, email addresses, or private webhook URLs are included in this repository.
